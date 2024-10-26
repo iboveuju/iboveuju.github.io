@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iboveuju.github.io/sitemap_index.iboveuju
